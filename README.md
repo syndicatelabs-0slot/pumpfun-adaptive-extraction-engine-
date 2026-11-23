@@ -49,7 +49,7 @@ It is all three, plus 17 features that do not exist in any product at any price.
 
 This is proprietary, live-pool-adaptive HFT infrastructure. **Compiled binaries, obfuscated runtimes, trial versions, and architectural walkthroughs are not offered.**
 
-The complete v51 source code is available for a single private acquisition (non-exclusive, sold as-is):
+The complete engine's source code is available for a single private acquisition (non-exclusive, sold as-is):
 - **Source Only:** $150,000 USDC
 - **Source + 14-Day Engineering Handoff:** $200,000 USDC (setup, compilation & architecture Q&A)
 
