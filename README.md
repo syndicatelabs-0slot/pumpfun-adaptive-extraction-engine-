@@ -29,13 +29,11 @@ It is all three, plus 17 features that do not exist in any product at any price.
 
 ## What's Included
 
-- Compiled Rust binary (no source code)
-- TypeScript runtime (obfuscated)
-- Configuration templates
-- Deployment documentation
-- On-chain BPF proxy router program
-- IDL files (PumpFun, PumpSwap, Pump Fees, Meteora)
-- Deployment support
+- Complete uncompiled Rust HFT engine (30 modules, 26k+ LOC, 720+ unit tests)
+- Complete TypeScript core, infrastructure & bridges (23k+ LOC)
+- Custom on-chain BPF proxy router program source
+- IDL files (PumpFun, PumpSwap)
+- Configuration templates & deployment documentation
 
 ## Requirements
 
@@ -47,15 +45,17 @@ It is all three, plus 17 features that do not exist in any product at any price.
 | VPS | 8-core, 32GB RAM minimum |
 | Keypairs | Solana keypairs for wallet fleet
 
-## Licensing
+## Acquisition Terms
 
-This is proprietary software. Not open source.
-- No redistribution
-- No reverse engineering
-- No modification (binary license)
-- Non-transferable
-  
-## For licensing, pricing, and deployment inquiries:
+This is proprietary, live-pool-adaptive HFT infrastructure. **Compiled binaries, obfuscated runtimes, trial versions, and architectural walkthroughs are not offered.**
+
+The complete v51 source code is available for a single private acquisition (non-exclusive, sold as-is):
+- **Source Only:** $150,000 USDC
+- **Source + 14-Day Engineering Handoff:** $200,000 USDC (setup, compilation & architecture Q&A)
+
+## Serious Inquiries Only
+
+All inquiries require an **on-chain signed Proof of Funds ($150k+ USDC)** prior to any technical discussion. Settlement strictly via a 2-of-3 atomic-release multisig.
 
 - Telegram: @xyzdaklabeb
 - Email: ghosttown87@proton.me
